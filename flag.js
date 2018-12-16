@@ -1,7 +1,7 @@
 var canvas = document.getElementById('bdflag'); // create a canvas variable
 
-canvas.width = window.innerWidth *0.7; // creating a height and width
-canvas.height = window.innerHeight * 0.7;
+canvas.width = window.innerWidth *0.6; // creating a height and width
+canvas.height = window.innerHeight * 0.6;
 var cont = canvas.getContext('2d');
 
 cont.fillStyle = '#388E3C';
